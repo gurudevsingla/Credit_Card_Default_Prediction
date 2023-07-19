@@ -1,0 +1,2 @@
+2023-07-19/18:46:58		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_17072023_072530.csv
+2023-07-19/18:46:58		Invalid File Name!! File moved to Bad Raw Folder :: file_seperator.ipynb
